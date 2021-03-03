@@ -1,0 +1,16 @@
+PODS:
+  - TPPartA (0.1.0)
+
+DEPENDENCIES:
+  - TPPartA (from `../`)
+
+EXTERNAL SOURCES:
+  TPPartA:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  TPPartA: 29258164525331ba4fda1073881bac06f6d99cdb
+
+PODFILE CHECKSUM: dc348bffcb06da49a67693ca6c7cca85263066c1
+
+COCOAPODS: 1.10.1

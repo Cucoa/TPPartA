@@ -1,0 +1,22 @@
+{
+  "name": "TPPartA",
+  "version": "0.1.0",
+  "summary": "A short description of TPPartA.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/673921021@qq.com/TPPartA",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "673921021@qq.com": "673921021@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/673921021@qq.com/TPPartA.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "TPPartA/Classes/**/*"
+}
