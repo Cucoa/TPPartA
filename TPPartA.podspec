@@ -17,15 +17,13 @@ Pod::Spec.new do |s|
 #   * Write the description between the DESC delimiters below.
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
-  s.description      = <<-DESC
-  适用于OC开放的一个测试框架
-                       DESC
+  s.description      = "适用于OC开放的一个测试框架"
 
-  s.homepage         = 'https://github.com/673921021@qq.com/TPPartA'
+  s.homepage         = 'https://github.com/Cucoa/TPPartA'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { '673921021@qq.com' => '673921021@qq.com' }
-  s.source           = { :git => 'https://github.com/673921021@qq.com/TPPartA.git', :tag => s.version.to_s }
+  s.author           = { 'Cucoa' => '673921021@qq.com' }
+  s.source           = { :git => 'https://github.com/Cucoa/TPPartA.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '9.0'

@@ -1,5 +1,10 @@
 use_frameworks!
 
+# 指定私有source源
+source 'https://github.com/Cucoa/TPPartA.git'
+# 官方的source源
+source 'https://github.com/CocoaPods/Specs.git'
+
 platform :ios, '9.0'
 
 target 'TPPartA_Example' do

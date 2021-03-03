@@ -24,7 +24,7 @@ pod 'TPPartA'
 
 ## Author
 
-673921021@qq.com, 673921021@qq.com
+CoreTea, 673921021@qq.com
 
 ## License
 
